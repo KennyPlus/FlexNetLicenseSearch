@@ -5,7 +5,7 @@
 #ifndef PATTERNSEARCH_SEARCH_H
 #define PATTERNSEARCH_SEARCH_H
 #include <iostream>
-
+#include <cstdint>
 using namespace std;
 
 typedef struct PatchPattern
